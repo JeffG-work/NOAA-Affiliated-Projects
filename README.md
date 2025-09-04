@@ -149,4 +149,4 @@ The [Societal Data Insights Initiative (SDII) Integrated Societal-data Platform 
 
 ### [NCCOS Key Species and Bioinformatics Branch](https://github.com/NOAA-Key-Species-and-Bioinformatics)
 
-The Key Species and Bioinformatics (KSB) branch within NOAA’s [National Centers for Coastal Ocean Science (NCCOS)](https://coastalscience.noaa.gov/) supports ecosystem health science with expertise in shallow water coral health and disease, deep water coral propagation and restoration, coastal marine mammal assessment, genetics and -OMICS analyses.
+The Key Species and Bioinformatics (KSB) branch within NOAA’s [National Centers for Coastal Ocean Science (NCCOS)](https://coastalscience.noaa.gov/) supports ecosystem health science leading management and informational needs in shallow water coral health and disease, deep water coral propagation and restoration, coastal marine mammal assessment, genetics and -OMICS analyses.
